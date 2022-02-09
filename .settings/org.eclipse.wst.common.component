@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Harshit_VasyERP_Servlet_JSP_JDBC_CRUD_Task">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Harshit_VasyERP_Servlet_JSP_JDBC_CRUD_Task"/>
+        <property name="java-output-path" value="/Harshit_VasyERP_Servlet_JSP_JDBC_CRUD_Task/build/classes"/>
+    </wb-module>
+</project-modules>
